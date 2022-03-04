@@ -771,3 +771,5 @@ Coin specific changes:
 - Removed 96/5 Nvidia specific kernel
 - Changed Safecoin (SAFE) from Equihash 144/5 to 192/7
 - Added Vidulum (VDL), Equihash 192/7
+  
+  Thank you to the Original Creator of this project. I just slightly edited the scripts.
