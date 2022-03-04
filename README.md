@@ -1,8 +1,6 @@
-# lolMiner
+# Google Colab Crypto Mining
 
-A git repository for lolMiner release versions
-
-Helpful information in : https://github.com/Lolliedieb/lolMiner-releases/wiki
+A git repository for release versions
 
 ## Supported Algorithm
 
@@ -26,7 +24,7 @@ Helpful information in : https://github.com/Lolliedieb/lolMiner-releases/wiki
 | ZelHash | 1.0 |
 
 
-## Options supported by lolMiner
+## Options supported by the project
 To see some basic configuration examples, see here: https://github.com/Lolliedieb/lolMiner-releases/wiki/lolMiner-1.38---Basic-usage-(English)
 
 ### General Options
